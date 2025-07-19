@@ -1,1 +1,1 @@
-Test sourcetree conflict 3
+Test sourcetree conflict
